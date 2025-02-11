@@ -60,4 +60,8 @@ http://localhost:your-port
 - Start managing your color inventory effortlessly! 🎨
 
 
+https://github.com/user-attachments/assets/00278ab8-2ff6-4092-b297-7af79c10399f
+
+
+
 ⭐ If you find this project helpful, consider giving it a star ⭐ on GitHub!
