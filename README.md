@@ -1,7 +1,5 @@
 # 🎨 Color Inventory Management System  
 
-📧 **Lin Bokobza** | 📩 linbok123@gmail.com | 📞 052-4070161  
-
 ## 📌 Project Overview  
 This is a web-based application for managing a color inventory. It allows users to perform CRUD operations on a color database and modify the display order dynamically.  
 
