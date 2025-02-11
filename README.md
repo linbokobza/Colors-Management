@@ -1,19 +1,23 @@
 # 🎨 Color Inventory Management System  
 
+
 ## 📌 Project Overview  
 This is a web-based application for managing a color inventory. It allows users to perform CRUD operations on a color database and modify the display order dynamically.  
+
 
 ## ✨ Features  
 ✅ View Colors  
 ➕ Add New Color  
 🗑 Delete Color  
 ✏ Edit Color  
-🔄 Modify Color Order (Bonus Feature)  
+🔄 Modify Color Order
+
 
 ## 🛠 Technology Stack  
 - 🖥 **Backend:** ASP.NET (VB.NET)  
 - 📊 **Database:** SQL Server  
 - 🌐 **Frontend:** jQuery + AJAX for seamless data updates  
+
 
 ## 🚀 Setup Instructions  
 
